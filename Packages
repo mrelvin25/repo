@@ -1,0 +1,30 @@
+
+Package: com.jailbreakaz.palette
+Version: 0.6-1+debug
+Architecture: iphoneos-arm
+Maintainer: JailbreakAZ <mrelvin25@gmail.com>
+Filename: ./debs/com.jailbreakaz.palette_0.6-1+debug_iphoneos-arm.deb
+Size: 400642
+MD5sum: b9557dd1b02f2cdeda367c84669d81a5
+SHA1: dcc523d379832576853912f39c7fa0247a8d78c3
+SHA256: 70c3a02ed233e157912e26817a368aa5fc558b4bccd13ff79255f5e056c94b52
+Section: Tweaks
+Description: Palette bildirişləri tətbiqin öz rənginə uyğun rəngləndirən tweakdir.
+Author: Elvin Isco <mrelvin25@gmail.com>
+Name: Palette
+Depiction: https://mrelvin25.github.io/repo/depictions/index.html?p=com.palette
+
+Package: com.jailbreakaz.paletteaz
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakAZ <mrelvin25@gmail.com>
+Filename: /com.jailbreakaz.paletteaz_1.0_iphoneos-arm.deb
+Size: 430900
+MD5sum: 0894a2b75c21f847a41158166275b9ad
+SHA1: d68f9ca3c1733f175d1d85ed57525a7d2c8bebe3
+SHA256: 560c239a114620d7fbb96424aeab4e01e63d6c36da63b5fbfed1cea04dba2eea
+Section: Tweaks
+Description: Palette bildirişləri tətbiqin öz rənginə uyğun rəngləndirən tweak üçün azərbaycan dili paketi.
+Author: Elvin Isco <mrelvin25@gmail.com>
+Name: Palette Azərbaycan Dili Paketi
+Depiction: https://mrelvin25.github.io/repo/depictions/index.html?p=com.paletteaz

@@ -1,0 +1,159 @@
+Package: com.Watusi2Aze
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: JailbreakAze <aziz.mikayil@hotmail.com>
+Depends: firmware (>7.0)
+Filename: ./debs/com.watusi2aze_1.1.1_iphoneos-arm.deb
+Size: 14216
+MD5sum: d46b8248ff4dacf189d0bf19da5fe4a6
+SHA1: ff32016fff5ea39c7a737594b73ff9b493ec58d8
+SHA256: e46f7d94bf146d691a1a6a4ce5a100e4c903a451dd0d137b83eb9815c70ca43f
+Section: Tweaks
+Description: Azərbaycan dilində tərcümə olunmuş Tweak
+Author: A. Mikayıl <aziz.mikayil@hotmail.com>
+Name: Watusi 2 Azərbaycanca
+Depiction: https://jailbreakaz.github.io/repo/depictions/index.html?p=com.watusi2aze
+
+Package: com.f0u4d.azeonlinenotify
+Version: 2.0.1
+Architecture: iphoneos-arm
+Maintainer: JailbreakAze <saleh.agamali@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Filename: ./debs/com.f0u4d.onlinenotify_2.0.1_iphoneos-arm.deb
+Size: 363354
+MD5sum: dc0503efd7474b82de1d680db3679ce6
+SHA1: d92d615ab8e0f0949e66999f759070fbf03b21a4
+SHA256: 5d83cd747fe0f9632051e628f503af01a3ec9f6291bc1cf61bf4d7a39b399928
+Section: Tweaks
+Description: Azərbaycan dilində tərcümə olunmuş Tweak
+Author: Saleh Ağamalıyev <saleh.agamali@gmail.com>
+Name: OnlineNotify Aze
+Depiction: https://jailbreakaz.github.io/repo/depictions/index.html?p=com.f0u4d.azeonlinenotify
+
+Package: com.Watusi2Aze
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakAze <aziz.mikayil@hotmail.com>
+Depends: firmware (>7.0)
+Filename: ./debs/com.watusi2aze_1.1.0_iphoneos-arm.deb
+Size: 14290
+MD5sum: b08fe852d57ed4d46c4986f2b0f275ad
+SHA1: 2cf468de496d23440e661eadfa9d189ddbf24d96
+SHA256: 3a1438a9e327131335995fcd66a9c06cadc7c3aa7a7864d76aff443db343ceb9
+Section: Tweaks
+Description: Azərbaycan dilində tərcümə olunmuş Tweak
+Author: A. Mikayıl <aziz.mikayil@hotmail.com>
+Name: Watusi 2 Azərbaycanca
+Depiction: https://jailbreakaz.github.io/repo/depictions/index.html?p=com.watusi2aze
+
+Package: com.PaletteAz
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakAze <aziz.mikayil@hotmail.com>
+Depends: firmware (>7.0)
+Filename: ./debs/com.PaletteAz_1.1.0_iphoneos-arm.deb
+Size: 1812
+MD5sum: 882b77e67a17a74C1e8e3bb397763ad2
+SHA1: d3Ddb5674c6ce26a469e68b974ab02e0505d841f
+SHA256: 4a2f64f16a7cb553e63c4972878cadcc4ff88a6731C61d40767df37fcbba0c8a
+Section: Tweaks
+Description: Azərbaycan dilində tərcümə olunmuş Tweak
+Author: Elvin Isco <mrelvin25@gmail.com>
+Name: Palette Az
+Depiction: https://jailbreakaz.github.io/repo/depictions/index.html?p=com.paletteaz
+
+Package: com.Azebatterylife
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: JailbreakAze <azdglzdh@gmail.com>
+Depends: firmware (>7.0)
+Filename: ./debs/com.Azebatterylife_1.0.1_iphoneos-arm.deb
+Size: 2618744
+MD5sum: cfbebb70754b97f54659d91970099667
+SHA1: 07ee29645506f3495720a4763e218847e5848a50
+SHA256: 16c6d8490005dcbb86f147a52670989667744b6f7b26965e6f82b903ad5b1443
+Section: Tweaks
+Description: Azərbaycan dilində tərcümə olunmuş Tweak
+Author: Azad Quluzade <azdglzdh@gmail.com>
+Name: BatteryLife Aze
+Depiction: https://jailbreakaz.github.io/repo/depictions/index.html?p=com.azebatterylife
+
+Package: com.Watusi2Aze
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakAze <aziz.mikayil@hotmail.com>
+Depends: firmware (>7.0)
+Filename: ./debs/com.Watusi2Aze_1.0.0_iphoneos-arm.deb
+Size: 14280
+MD5sum: 94dbd90fb4a49bee3eeb0e33ab658887
+SHA1: 32c482420f353ae8435e655bb5d5ec507378c016
+SHA256: 3c1b26dd546ce8cc02ab6fb81ae79b2c19c3a9e16da7e741dd510508028a6879
+Section: Tweaks
+Description: Azərbaycan dilində tərcümə olunmuş Tweak
+Author: A. Mikayıl <aziz.mikayil@hotmail.com>
+Name: Watusi 2 Azərbaycanca
+Depiction: https://jailbreakaz.github.io/repo/depictions/index.html?p=com.watusi2aze
+
+Package: com.PaletteAz
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakAze <aziz.mikayil@hotmail.com>
+Depends: firmware (>7.0)
+Filename: ./debs/com.PaletteAz_1.0.0_iphoneos-arm.deb
+Size: 1812
+MD5sum: 84174bdc68a2c31af78afddbdf863f3d
+SHA1: 08462a8f364089ad25bbedcdb088d7af8895d518
+SHA256: 9f31534d4d8a82bf06977696C0966808f9725e64bd4fb531d55eca147b8d4bfb
+Section: Tweaks
+Description: Azərbaycan dilində tərcümə olunmuş Tweak
+Author: Elvin Isco <mrelvin25@gmail.com>
+Name: Palette Az
+Depiction: https://jailbreakaz.github.io/repo/depictions/index.html?p=com.paletteaz
+
+Package: com.NoctisxiAz
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakAze <mrelvin25@gmail.com>
+Depends: firmware (>7.0)
+Filename: ./debs/com.NoctisxiAz_1.0.0_iphoneos-arm.deb
+Size: 1982
+MD5sum: 4d7c91b8c954945bc3873bbabcb7ea6b
+SHA1: d1152bad73b0f8830fa2c9a60cf57d802bd39814
+SHA256: ca635aaa32e6717dda3ad16601cf21ef69f08865856015a72d1f56225d5ec309
+Section: Tweaks
+Description: Azərbaycan dilində tərcümə olunmuş Tweak
+Author: Elvin Isco <mrelvin25@gmail.com>
+Name: Noctis Xİ Aze
+Depiction: https://jailbreakaz.github.io/repo/depictions/index.html?p=com.noctisxiaz
+
+Package: com.Azebatterylife
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakAze <azdglzdh@gmail.com>
+Depends: firmware (>7.0)
+Filename: ./debs/com.Azebatterylife_1.0.0_iphoneos-arm.deb
+Size: 2618744
+MD5sum: cfbebb70754b97f54659d91970099667
+SHA1: 07ee29645506f3495720a4763e218847e5848a50
+SHA256: 16c6d8490005dcbb86f147a52670989667744b6f7b26965e6f82b903ad5b1443
+Section: Tweaks
+Description: Azərbaycan dilində tərcümə olunmuş Tweak
+Author: Azad Quluzade <azdglzdh@gmail.com>
+Name: BatteryLife Aze
+Depiction: https://jailbreakaz.github.io/repo/depictions/index.html?p=com.azebatterylife
+
+Package: com.f0u4d.azeonlinenotify
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakAze <saleh.agamali@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Filename: ./debs/com.f0u4d.azeonlinenotify_1.0.0_iphoneos-arm.deb
+Size: 363454
+MD5sum: 956f4c3ab182b54850c7d29012fbaf4e
+SHA1: 3d0598f98c1fc0b7e3ee84a79ee76a2145f059ea
+SHA256: 879452bd61d348826a7a16fea23d053dfaa2c7c6e098b5e869fcf295db9391c5
+Section: Tweaks
+Description: Azərbaycan dilində tərcümə olunmuş Tweak
+Author: Saleh Ağamalıyev <saleh.agamali@gmail.com>
+Name: OnlineNotify Aze
+Depiction: https://jailbreakaz.github.io/repo/depictions/index.html?p=com.f0u4d.azeonlinenotify
